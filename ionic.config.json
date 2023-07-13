@@ -1,0 +1,8 @@
+{
+  "name": "CareRio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "1c2ec52b"
+}
